@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.glennlim.medstar;
 
 import android.app.Activity;
 import android.content.Context;
@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
 
 import java.util.ArrayList;
 

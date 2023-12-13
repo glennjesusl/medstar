@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myapplication"
+    namespace = "com.glennlim.medstar"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.myapplication"
+        applicationId = "com.glennlim.medstar"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -46,7 +46,7 @@ dependencies {
 
     implementation("com.google.android.gms:play-services-maps:18.2.0")
     implementation("com.google.android.gms:play-services-location:21.0.1")
-    implementation("com.google.android.gms:play-services-maps:18.2.0")
+    implementation("com.google.android.gms:play-services-maps:18.1.0")
     implementation("com.android.volley:volley:1.2.1")
 
     implementation ("com.squareup.retrofit2:converter-gson:2.4.0")

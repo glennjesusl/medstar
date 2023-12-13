@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.glennlim.medstar;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
@@ -6,7 +6,7 @@ import retrofit2.converter.scalars.ScalarsConverterFactory;
 
 public class RetrofitClient {
 
-    private static final String base_url = "https://mocki.io/";  //https://www.boredapi.com/api/activity
+    private static final String base_url = "https://mocki.io/";
     private static RetrofitClient instance;
     private Retrofit retrofit;
 

@@ -1,12 +1,10 @@
-package com.example.myapplication;
+package com.glennlim.medstar;
 
 import android.app.Application;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.MutableLiveData;
-
-import org.json.JSONObject;
 
 import java.util.ArrayList;
 

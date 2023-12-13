@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.glennlim.medstar;
 
 import org.junit.Test;
 

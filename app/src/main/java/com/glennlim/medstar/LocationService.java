@@ -1,6 +1,4 @@
-package com.example.myapplication;
-
-import java.util.List;
+package com.glennlim.medstar;
 
 import okhttp3.ResponseBody;
 import retrofit2.Call;
