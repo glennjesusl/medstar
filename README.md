@@ -10,7 +10,7 @@ Minimum requirements are listed below, add features that you deem necessary
   * Baguio         - 16.3994238,120.4411206
   * Metro Manila   - 14.5964947,120.9383599
 
-- When a cell is clicked. It should navigate to a second screen with the maps and show a vehicle
+- When an item is clicked, it should navigate to a second screen with the maps and show a vehicle
   route from the device’s current location going to the coordinates specifie in the tapped cell.
 
 - Use Google Maps Directions API
