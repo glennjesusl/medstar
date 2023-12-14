@@ -16,4 +16,6 @@ Minimum requirements are llisted below, add features that you deem necessary
 - Use Google Maps Directions API
 
 - Sample image of route:
+
+
   ![image](https://github.com/glennjesusl/medstar/assets/1505157/77ce83e7-c494-482c-91f9-4f20bb023422)
