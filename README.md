@@ -2,7 +2,7 @@
 
 ## Technical Coding Exam ##
 
-Minimum requirements are llisted below, add features that you deem necessary
+Minimum requirements are listed below, add features that you deem necessary
   
 - Using MVVM architecture, create a table view containing the following data
   
